@@ -1,0 +1,11 @@
+name: astrbot_plugin_pjsk-scorecalc # 这是你的插件的唯一识别名。
+desc: 这是pjsk（初音未来世界计划）的活动计算插件，支持倍率、协力pt、单人pt、挑战pt计算 # 插件简短描述
+help: |
+  使用方式：
+  - 计算倍率 <5个数字>
+  - 协力pt <4个数字>
+  - 单人pt <4个数字>
+  - 挑战pt <1个数字>
+version: v1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: HDSEKING # 作者
+repo: https://github.com/HDSEKING/astrbot_plugin_pjsk-scorecalc # 插件的仓库地址
